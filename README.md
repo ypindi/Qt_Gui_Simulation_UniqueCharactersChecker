@@ -8,7 +8,6 @@ A simple Qt Widgets-based GUI application that checks whether an input string co
 - Toggle **Case Sensitivity** (treat `A` and `a` as the same or different)
 - Instant feedback on whether characters are unique
 - Displays list of unique characters if valid
-- Alerts for invalid or empty input
 
 ## Screenshot
 
