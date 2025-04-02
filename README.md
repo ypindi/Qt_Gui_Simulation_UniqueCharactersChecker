@@ -1,4 +1,4 @@
-# Qt Unique Characters Checker
+# Qt Unique Characters Checker - (Windows Only)
 
 A simple Qt Widgets-based GUI application that checks whether an input string contains **all unique characters**, with optional **case sensitivity**.
 
